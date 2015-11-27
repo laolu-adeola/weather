@@ -1,0 +1,14 @@
+.weather-report {
+ 	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: comic, serif;
+	color: #violet;
+	font-style: italic, bold;
+}
+
+input::-webkit-input-placeholder {
+	color: rgba(0,5,143,.5);
+	font-style: italic;
+	text-transform: uppercase;
+}
